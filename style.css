@@ -1,0 +1,12 @@
+.box-container {
+    border:5px solid #335d3e ;
+    background-color: #7dc590;
+    padding: 10px;
+    margin: 0px auto;
+    text-align: center;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.color-button {
+    background-color: #7dc590;
+}
